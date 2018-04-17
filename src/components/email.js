@@ -4,6 +4,8 @@ import SingleEmail from './single-email';
 import EmailList from './email-list';
 import './email.css';
 
+
+
 export default function Email() {
     return (
         <div className="email">
